@@ -1,2 +1,1 @@
-# git-foundation-workshop
-Git Foundation Workshop
+Coming soon!
