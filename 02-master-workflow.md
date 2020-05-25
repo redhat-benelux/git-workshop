@@ -73,7 +73,7 @@ Engineering writes down some numbers and info and pass it back to the sales depa
 
 The sales department now needs to merge (as in `git merge`) info and numbers from the `develop` version into the `master` copy.
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSSaSOMhzqxCvkS6XnvxOQG4Yn5D5MjY3IqviYIJb26uSMW6zwkXZ0zhsqmd5Yu3oe2HYvctHfXVPeh/pub?w=960&amp;h=720">
+![](images/branching01.png)
 
 **Branching** means you diverge from the main line of the document and continue to do work without modifying with the original document.
 
