@@ -11,3 +11,5 @@ In order to determine which chapters are the most interesting for you, please an
 - I know the difference between merging and rebasing
 - I I have used git reflog and git reset at least once
 - I have participated in large projects with multiple teams working on the same code base and potentially same features
+
+Let's jump to the [introduction](https://github.com/redhat-benelux/git-workshop/blob/master/01-introduction.md)
